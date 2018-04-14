@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://localhost:4000/blog/welcome-to-jekyll/</loc>
+      <loc>https://v-a-s-u.github.io/blog/welcome-to-jekyll/</loc>
       
         <lastmod>2018-02-03T18:52:16+05:30</lastmod>
       
@@ -11,7 +11,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/blog/first-post/</loc>
+      <loc>https://v-a-s-u.github.io/blog/first-post/</loc>
       
         <lastmod>2018-02-03T00:00:00+05:30</lastmod>
       
@@ -52,7 +52,7 @@
   
     
       <url>
-        <loc>http://localhost:4000/projects/</loc>
+        <loc>https://v-a-s-u.github.io/projects/</loc>
         <lastmod>2017-05-04T23:19:30+05:30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -63,7 +63,7 @@
   
     
       <url>
-        <loc>http://localhost:4000/resume/</loc>
+        <loc>https://v-a-s-u.github.io/resume/</loc>
         <lastmod>2017-05-04T23:19:30+05:30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
