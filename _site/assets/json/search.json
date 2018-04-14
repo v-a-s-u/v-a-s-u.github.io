@@ -1,0 +1,17 @@
+[
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "tags"     : "example, welcome, jekyll, typing, özel-bitcoin-adresi",
+      "url"     : "/blog/welcome-to-jekyll/",
+      "date"     : "3/2/2018"
+    } ,
+  
+    {
+      "title"    : "First Post",
+      "tags"     : "first post",
+      "url"     : "/blog/first-post/",
+      "date"     : "3/2/2018"
+    } 
+  
+]
