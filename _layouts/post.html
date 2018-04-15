@@ -15,7 +15,11 @@ layout: default
 
     <div class="mb-2 mt-2 mb-lg-4 mt-lg-4 layout_post__date">
       <div class="row">
-        <div class="{% if site.content.post.comments.enable == true and page.comments != false and loadData.userdata.disqus.username %} col-8 col-lg-4 offset-lg-0 col-sm-6 {% else %} col-12 col-lg-12 offset-lg-0 col-sm-12 {% endif %}">
+        <div class="{% if site.content.post.comments.enable == true and page.comments != false and loadData.userdata.disqus.username %} 
+                      col-8 col-lg-4 offset-lg-0 col-sm-6 
+                      {% else %} 
+                      col-12 col-lg-12 offset-lg-0 col-sm-12 
+                      {% endif %}">
           <div class="row justify-content-start">
             <time class="layout_post__time">
               {% if site.content.icons.enable == true %}<i class="far fa-calendar-alt"></i>{% endif %}
